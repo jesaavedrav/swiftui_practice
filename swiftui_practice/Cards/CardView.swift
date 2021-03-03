@@ -29,11 +29,7 @@ struct CardView: View {
             .aspectRatio(contentMode: .fill)
             .frame(width: 300, height: 110, alignment: .top)
          
-      }
-      .frame(width: 340, height: 220)
-      .background(Color.black)
-      .cornerRadius(20)
-      .shadow(radius: 20)
+      }      
    }
 }
 
